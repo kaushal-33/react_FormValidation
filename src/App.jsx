@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react"
 import StudentForm from "./components/StudentForm"
-import DisplayStudent from "./components/displayStudent"
+import DisplayStudent from "./components/DisplayStudent"
+
 
 const App = () => {
 
